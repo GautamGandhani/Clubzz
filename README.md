@@ -1,3 +1,6 @@
+https://youtu.be/BqHOtlh3Dd4?si=SjPX06cp41GGqG_7
+
+
 # Clubzz (Networking of Clubs)
 The College Clubs Management app is a mobile application built using the Flutter framework. The app allows college students to easily discover and join clubs on campus, view upcoming events and meetings, and communicate with other members. The app also includes features for club leaders to manage their club's information, events, and members. This can include creating events, sending out notifications, and tracking attendance. Overall, the app aims to make it easier for students to get involved in extracurricular activities and stay connected with their clubs.
 This online submission system supports following users
